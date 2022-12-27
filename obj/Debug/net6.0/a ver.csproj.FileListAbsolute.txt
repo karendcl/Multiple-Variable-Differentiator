@@ -1,0 +1,15 @@
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.csproj.AssemblyReference.cache
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.AssemblyInfoInputs.cache
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.AssemblyInfo.cs
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.csproj.CoreCompileInputs.cache
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\bin\Debug\net6.0\a ver.exe
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\bin\Debug\net6.0\a ver.deps.json
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\bin\Debug\net6.0\a ver.runtimeconfig.json
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\bin\Debug\net6.0\a ver.dll
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\bin\Debug\net6.0\ref\a ver.dll
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\bin\Debug\net6.0\a ver.pdb
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.dll
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\ref\a ver.dll
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.pdb
+C:\Karen\Universidad\2do Ano\Analisis Matematico 2\a ver\obj\Debug\net6.0\a ver.genruntimeconfig.cache
